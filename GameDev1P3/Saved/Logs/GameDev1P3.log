@@ -1468,4 +1468,121 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/AI_2016-11-06-17-22-35.uasset
 [2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/Floor_400x400_2016-11-06-16-39-23.uasset
 [2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/FoxAnimator_2016-11-06-17-06-49.uasset
-[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyPro
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/FoxAnimator_2016-11-06-17-22-25.uasset
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/ThirdPersonExampleMap_2016-11-06-17-00-25.umap
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/ThirdPersonExampleMap_2016-11-06-17-12-55.umap
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Backup/ThirdPersonExampleMap_2016-11-06-17-22-29.umap
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Config/Windows/
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Config/WorldState/3393405467.json
+[2016.11.06-23.36.46:572][495]SourceControl: Info 	MyProject/Saved/Logs/
+[2016.11.06-23.40.32:248][365]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.06-23.40.50:513][408]LogEditorViewport: Clicking on Actor (LMB): Fox_C (Fox)
+[2016.11.06-23.44.18:412][ 11]BlueprintLog: New page: Collapse to Function
+[2016.11.06-23.44.23:608][490]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2016.11.06-23.46.30:148][102]LogSavePackage: Save=91.71ms
+[2016.11.06-23.46.30:148][102]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Level_1-1_V1_Auto38DE14DE542677B3269626AAA506840A3.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Levels/Level_1-1_V1_Auto3.umap'
+[2016.11.06-23.46.30:148][102]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Levels/Level_1-1_V1_Auto3.umap
+[2016.11.06-23.46.30:150][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level_1-1_V1' took 0.122
+[2016.11.06-23.46.30:150][102]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.122
+[2016.11.06-23.46.30:152][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animals/Fox/Fox] ([1] browsable assets)...
+[2016.11.06-23.46.30:152][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animals/Fox/Fox]
+[2016.11.06-23.46.30:152][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animals/Fox/Fox" FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Animals/Fox/Fox_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.11.06-23.46.30:169][102]LogSavePackage: Save=12.52ms
+[2016.11.06-23.46.30:169][102]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Fox_Auto3DB24B6BF4A4D6AE4B865EB854883E408.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Animals/Fox/Fox_Auto3.uasset'
+[2016.11.06-23.46.30:170][102]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Animals/Fox/Fox_Auto3.uasset
+[2016.11.06-23.46.30:171][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animals/Animal] ([1] browsable assets)...
+[2016.11.06-23.46.30:171][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animals/Animal]
+[2016.11.06-23.46.30:171][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animals/Animal" FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Animals/Animal_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.11.06-23.46.30:188][102]LogSavePackage: Save=12.38ms
+[2016.11.06-23.46.30:188][102]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Animal_Auto355ADDB4A4C5FC66B86B2B6B87C45E18F.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Animals/Animal_Auto3.uasset'
+[2016.11.06-23.46.30:188][102]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Autosaves/Game/Animals/Animal_Auto3.uasset
+[2016.11.06-23.46.30:188][102]LogFileHelpers: Auto-saving content packages took 0.037
+[2016.11.06-23.48.04:939][766]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.06-23.51.05:942][109]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint2)
+[2016.11.06-23.53.25:711][639]BlueprintLog: New page: Compile Level_1-1_V1
+[2016.11.06-23.53.26:566][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.53.26:566][716]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.06-23.53.26:566][716]LogPlayLevel: [PlayLevel] Compiling Animal before play...
+[2016.11.06-23.53.26:574][716]LogPlayLevel: [PlayLevel]   Compiling Fox as a dependent...
+[2016.11.06-23.53.26:721][716]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Fox_3.CollisionCylinder is already used by CapsuleComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.REINST_Fox_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.53.26:721][716]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Fox_3.Arrow is already used by ArrowComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.REINST_Fox_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.53.26:721][716]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Fox_3.CharMoveComp is already used by CharacterMovementComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.REINST_Fox_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.53.26:721][716]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Fox_3.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.REINST_Fox_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.53.26:908][716]LogPlayLevel: PlayLevel: Blueprint regeneration took 341 ms (2 blueprints)
+[2016.11.06-23.53.26:908][716]PIE: New page: PIE session: Level_1-1_V1 (Nov 6, 2016, 1:53:26 PM)
+[2016.11.06-23.53.26:908][716]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1-1_V1
+[2016.11.06-23.53.26:912][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004203s)
+[2016.11.06-23.53.26:913][716]LogAIModule: Creating AISystem for world Level_1-1_V1
+[2016.11.06-23.53.26:913][716]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2016.11.06-23.53.26:913][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1-1_V1.Level_1-1_V1 to /Game/Levels/UEDPIE_0_Level_1-1_V1.Level_1-1_V1 (0.005100s)
+[2016.11.06-23.53.26:935][716]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.06-23.53.26:946][716]LogInit: FAudioDevice initialized.
+[2016.11.06-23.53.26:976][716]LogWorld: Game class is 'GameMode'
+[2016.11.06-23.53.26:978][716]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1-1_V1.Level_1-1_V1 up for play (max tick rate 0) at 2016.11.06-18.53.26
+[2016.11.06-23.53.26:979][716]LogWorld: Bringing up level for play took: 0.002010
+[2016.11.06-23.53.26:980][716]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.06-23.53.26:980][716]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.06-23.53.26:980][716]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.06-23.53.26:980][716]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.06-23.53.26:980][716]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Level_1-1_V1 0.528
+[2016.11.06-23.53.26:981][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.53.36:565][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.53.36:605][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.53.38:794][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.53.38:795][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.06-23.53.38:795][ 62]PIE: New page: PIE session: Level_1-1_V1 (Nov 6, 2016, 1:53:38 PM)
+[2016.11.06-23.53.38:795][ 62]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1-1_V1
+[2016.11.06-23.53.38:800][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005589s)
+[2016.11.06-23.53.38:801][ 62]LogAIModule: Creating AISystem for world Level_1-1_V1
+[2016.11.06-23.53.38:801][ 62]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2016.11.06-23.53.38:801][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1-1_V1.Level_1-1_V1 to /Game/Levels/UEDPIE_0_Level_1-1_V1.Level_1-1_V1 (0.006593s)
+[2016.11.06-23.53.38:825][ 62]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.06-23.53.38:835][ 62]LogInit: FAudioDevice initialized.
+[2016.11.06-23.53.38:867][ 62]LogWorld: Game class is 'GameMode'
+[2016.11.06-23.53.38:869][ 62]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1-1_V1.Level_1-1_V1 up for play (max tick rate 0) at 2016.11.06-18.53.38
+[2016.11.06-23.53.38:870][ 62]LogWorld: Bringing up level for play took: 0.002093
+[2016.11.06-23.53.38:870][ 62]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.06-23.53.38:870][ 62]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.06-23.53.38:870][ 62]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.06-23.53.38:871][ 62]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.06-23.53.38:871][ 62]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_Level_1-1_V1 0.418
+[2016.11.06-23.53.38:871][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.54.04:852][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1-1_V1" FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.06-23.54.04:968][ 35]LogSavePackage: Save=97.81ms
+[2016.11.06-23.54.04:968][ 35]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Level_1-1_V148E864024EDB48A73BF67CA47DD311E8.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap'
+[2016.11.06-23.54.04:972][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap
+[2016.11.06-23.54.04:990][ 35]LogFileHelpers: Saving map 'Level_1-1_V1' took 0.190
+[2016.11.06-23.54.04:990][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animals/Fox/Fox" FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Animals/Fox/Fox.uasset" SILENT=true
+[2016.11.06-23.54.05:008][ 35]LogSavePackage: Save=12.54ms
+[2016.11.06-23.54.05:008][ 35]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Fox0ADE310E41F066898180FDBA508092DB.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Animals/Fox/Fox.uasset'
+[2016.11.06-23.54.05:011][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Animals/Fox/Fox.uasset
+[2016.11.06-23.54.05:012][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animals/Animal" FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Animals/Animal.uasset" SILENT=true
+[2016.11.06-23.54.05:029][ 35]LogSavePackage: Save=12.96ms
+[2016.11.06-23.54.05:029][ 35]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/AnimalD6F16A1C4468C8AD7AA9C6ACD18B5590.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Animals/Animal.uasset'
+[2016.11.06-23.54.05:032][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Animals/Animal.uasset
+[2016.11.06-23.54.06:329][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.54.11:943][182]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.609 s
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: === Handled ensure: ===
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: 
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 703]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: Type mismatch: Expected Level_1-1_V1_C, Found LevelScriptBlueprint
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: Stack: 
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:183]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:297]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\core\private\misc\outputdevice.cpp:432]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-Engine.dll!UBlueprint::SetObjectBeingDebugged() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\engine\private\blueprint.cpp:699]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-Engine.dll!UWorld::TransferBlueprintDebugReferences() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\engine\private\world.cpp:1644]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::TeardownPlaySession() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\unrealed\private\playlevel.cpp:675]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::EndPlayMap() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\unrealed\private\playlevel.cpp:270]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\unrealed\private\editorengine.cpp:1653]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4+release-4.13+compile\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:371]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:2834]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\launch.cpp:156]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.13+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:202]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:264]
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: KERNEL32.DLL
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: ntdll.dll
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: ntdll.dll
+[2016.11.06-23.54.11:943][182]LogOutputDevice:Error: 
+[2016.11.06-23.54.11:943][182]LogStats:                SubmitErrorReport -  0.000 s
