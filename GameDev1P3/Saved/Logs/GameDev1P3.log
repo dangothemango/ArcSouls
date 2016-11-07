@@ -1586,3 +1586,76 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2016.11.06-23.54.11:943][182]LogOutputDevice:Error: ntdll.dll
 [2016.11.06-23.54.11:943][182]LogOutputDevice:Error: 
 [2016.11.06-23.54.11:943][182]LogStats:                SubmitErrorReport -  0.000 s
+[2016.11.06-23.54.12:289][182]LogStats:                    SendNewReport -  0.346 s
+[2016.11.06-23.54.12:289][182]LogStats:             FDebug::EnsureFailed -  5.955 s
+[2016.11.06-23.54.12:329][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1' with GeneratedClass '/Game/Levels/Level_1-1_V1.Level_1-1_V1_C' with ClassGeneratedBy '/Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.Level_1-1_V1'
+[2016.11.06-23.54.12:386][183]Cmd: SELECT NONE
+[2016.11.06-23.54.13:350][289]Cmd: SELECT NONE
+[2016.11.06-23.54.17:058][716]SourceControl: Info fatal: C:/Program Files/Epic Games/4.13/Engine/Content/: 'C:/Program Files/Epic Games/4.13/Engine/Content/' is outside repository
+[2016.11.06-23.54.32:256][716]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.11.06-23.54.32:351][716]SourceControl: Info [master 43b91c9] Created recall event, need to add player character
+[2016.11.06-23.54.32:351][716]SourceControl: Info  3 files changed, 0 insertions(+), 0 deletions(-)
+[2016.11.06-23.54.32:351][716]SourceControl: Info  rewrite GameDev1P3/Content/Animals/Animal.uasset (73%)
+[2016.11.06-23.54.32:358][716]SourceControl: Info Commited [master 43b91c9] Created recall event, need to add player character.
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.AtmosphericFog_1.ArrowComponent0 is already used by ArrowComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.AtmosphericFog_1.ArrowComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.Arrow is already used by ArrowComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by AtmosphericFogComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.AtmosphericFog_1.AtmosphericFogComponent0 is already used by AtmosphericFogComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.AtmosphericFog_1.AtmosphericFogComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by BillboardComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.AtmosphericFog_1.Sprite is already used by BillboardComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.AtmosphericFog_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by BillboardComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.Sprite is already used by BillboardComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by BillboardComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.Sprite2 is already used by BillboardComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.Sprite2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by BrushComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.BoxBrush.BrushComponent0 is already used by BrushComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.BoxBrush.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:520][ 42]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.CollisionCapsule is already used by CapsuleComponent /Game/Levels/Level_1-1_V1.Level_1-1_V1:PersistentLevel.PlayerStart.CollisionCapsule, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.56.55:523][ 42]LogAIModule: Creating AISystem for world Level_1-1_V1
+[2016.11.06-23.57.06:792][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1-1_V1" FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.06-23.57.06:906][559]LogSavePackage: Save=96.06ms
+[2016.11.06-23.57.06:906][559]LogSavePackage: Moving '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Saved/Level_1-1_V12F272BC04FD2F4214887CF8EF48CE451.tmp' to '../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap'
+[2016.11.06-23.57.06:908][559]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap
+[2016.11.06-23.57.06:933][559]LogFileHelpers: Saving map 'Level_1-1_V1' took 0.202
+[2016.11.06-23.57.06:939][559]Cmd: MAP LOAD FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.06-23.57.06:939][559]LightingResults: New page: Lighting Build
+[2016.11.06-23.57.06:939][559]LoadErrors: New page: Loading map: Level_1-1_V1.umap
+[2016.11.06-23.57.06:974][559]MapCheck: New page: Map Check
+[2016.11.06-23.57.06:974][559]LightingResults: New page: Lighting Build
+[2016.11.06-23.57.07:036][559]LogAIModule: Creating AISystem for world Level_1-1_V1
+[2016.11.06-23.57.07:039][559]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.06-23.57.07:058][559]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.06-23.57.07:108][559]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.382ms to complete.
+[2016.11.06-23.57.07:109][559]LogFileHelpers: Loading map 'Level_1-1_V1' took 0.171
+[2016.11.06-23.57.11:335][957]LogAIModule: Creating AISystem for world Level_1-3_V1
+[2016.11.06-23.57.11:351][957]Cmd: MAP LOAD FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-3_V1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.06-23.57.11:351][957]LightingResults: New page: Lighting Build
+[2016.11.06-23.57.11:351][957]LoadErrors: New page: Loading map: Level_1-3_V1.umap
+[2016.11.06-23.57.11:352][957]MapCheck: New page: Map Check
+[2016.11.06-23.57.11:352][957]LightingResults: New page: Lighting Build
+[2016.11.06-23.57.11:367][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.06-23.57.11:386][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.06-23.57.11:437][957]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.97ms to complete.
+[2016.11.06-23.57.11:437][957]LogFileHelpers: Loading map 'Level_1-3_V1' took 0.087
+[2016.11.06-23.57.13:026][109]LogAIModule: Creating AISystem for world Level_1-2_V1
+[2016.11.06-23.57.13:044][109]Cmd: MAP LOAD FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-2_V1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.06-23.57.13:044][109]LightingResults: New page: Lighting Build
+[2016.11.06-23.57.13:044][109]LoadErrors: New page: Loading map: Level_1-2_V1.umap
+[2016.11.06-23.57.13:045][109]MapCheck: New page: Map Check
+[2016.11.06-23.57.13:045][109]LightingResults: New page: Lighting Build
+[2016.11.06-23.57.13:058][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.06-23.57.13:077][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.06-23.57.13:124][109]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 46.532ms to complete.
+[2016.11.06-23.57.13:124][109]LogFileHelpers: Loading map 'Level_1-2_V1' took 0.081
+[2016.11.06-23.57.16:837][471]LogAIModule: Creating AISystem for world Level_1-1_V1
+[2016.11.06-23.57.19:843][471]SourceControl: Info rm 'GameDev1P3/Content/Level_1-1_V1.umap'
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.AtmosphericFog_1.ArrowComponent0 is already used by ArrowComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.AtmosphericFog_1.ArrowComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.Arrow is already used by ArrowComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by AtmosphericFogComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.AtmosphericFog_1.AtmosphericFogComponent0 is already used by AtmosphericFogComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.AtmosphericFog_1.AtmosphericFogComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by BillboardComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.AtmosphericFog_1.Sprite is already used by BillboardComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.AtmosphericFog_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by BillboardComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.Sprite is already used by BillboardComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by BillboardComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.Sprite2 is already used by BillboardComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.Sprite2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by BrushComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.BoxBrush.BrushComponent0 is already used by BrushComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.BoxBrush.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:587][542]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.CollisionCapsule is already used by CapsuleComponent /Game/Levels/Level_1-2_V1.Level_1-2_V1:PersistentLevel.PlayerStart.CollisionCapsule, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.06-23.57.20:589][542]LogAIModule: Creating AISystem for world Level_1-2_V1
+[2016.11.06-23.57.21:957][542]SourceControl: Info rm 'GameDev1P3/Content/Level_1-2_V1.umap'
+[2016.11.06-23.57.22:824][626]LogAIModule: Creating AISystem for world Level_1-3_V1
+[2016.11.06-23.57.24:325][626]SourceControl: Info rm 'GameDev1P3/Content/Level_1-3_V1.umap'
+[2016.11.07-00.02.27:479][557]LogAIModule: Creating AISystem for world Level_1-1_V1
+[2016.11.07-00.02.27:497][557]Cmd: MAP LOAD FILE="../../../../../../Users/gormad/Desktop/Smellovision/GameDev1P3/Content/Levels/Level_1-1_V1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.07-00.02.27:497][557]LightingResults: New page: Lighting Build
+[2016.11.07-00.02.27:498][557]LoadErrors: New page: Loading
