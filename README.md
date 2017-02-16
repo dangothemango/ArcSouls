@@ -10,3 +10,4 @@ Your character is a forest nymph tasked with guiding the creatures of the wild p
 - [Perrin Mercer](https://github.com/prnmer)
 - [Anthony Licata](https://github.com/algebraicAdventures)
 - [Diana Nguyen](https://github.com/dn246)
+- [Kyle Ring](https://github.com/Hylian-Highwind)
